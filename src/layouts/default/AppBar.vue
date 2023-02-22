@@ -1,10 +1,10 @@
 <template>
-  <v-app-bar flat>
-    <v-app-bar-title>
-      <v-icon icon="mdi-circle-slice-4" />
+  <v-app-bar :elevation="2" rounded class="bg-orange-accent-1">
 
-      Base Preset
-    </v-app-bar-title>
+    <v-app-bar-nav-icon></v-app-bar-nav-icon>
+
+    <v-app-bar-title>Medway Ranch</v-app-bar-title>
+
   </v-app-bar>
 </template>
 
