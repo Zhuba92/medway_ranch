@@ -1,0 +1,17 @@
+.nav__title {
+  font-size: 1.8rem;
+}
+
+.nav__item {
+  font-size: 1.6rem;
+  padding: 1rem 2rem !important;
+}
+
+.nav__item::hover {
+  background-color: var(--v-primary-base);
+}
+
+.nav__link {
+  text-decoration: none;
+  color: var(--v-primary-base);
+}

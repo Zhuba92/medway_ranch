@@ -3,7 +3,7 @@
 </script>
 
 <template>
-
+    Contact Page
 </template>
 
 <style scoped>
